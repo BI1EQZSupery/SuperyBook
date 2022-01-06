@@ -1,10 +1,9 @@
 ---
 coverY: 0
-description: test desc
 ---
 
-# Test
+# Welcome!
 
-## !
+## Welcome aboard!
 
-test
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
